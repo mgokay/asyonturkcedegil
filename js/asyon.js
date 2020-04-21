@@ -60,6 +60,7 @@ var badwords = { 'adapt':        ['uyum', 'uyarlama'],
                  'transport':    ['ulaşım', 'taşıma'],
                  'valid':        ['onaylama', 'doğrulama', 'geçerleme'],
                  'valu':         ['değerleme'],
+                 'vary':         ['değişik biçim'],
                  'verifik':      ['doğrulama', 'kanıtlama', 'tetkik'],
                  'vibr':         ['titreşim']
 };
